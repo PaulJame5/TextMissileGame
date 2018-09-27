@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+c:\users\c00231934\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(209): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c00231934\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(238): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c00231934\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(272): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c00231934\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(291): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\c00231934\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(348): warning C4715: 'getMissileName': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\c00231934\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
